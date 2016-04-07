@@ -1,9 +1,9 @@
 {
-  "name": "angularSelectbox",
+  "name": "budacode-ng-slider",
   "version": "0.0.3",
   "homepage": "http://milica.github.io/angular-selectbox/",
   "authors": [
-    "Balazs Gallay <balazs.gallay.budacode@gmail.com>"    
+    "Balazs Gallay <balazs.gallay.budacode@gmail.com>"
   ],
   "description": "A simple AngularJS custom selecbox which supports multi select",
   "keywords": [
@@ -27,12 +27,12 @@
     "LICENSE"
   ],
   "dependencies": {
-    "angular": "~1.4.2"
+    "angular": "~1.5.0"
   },
   "devDependencies": {
-    "angular-mocks": "~1.4.2"
+    "angular-mocks": "~1.5.0"
   },
   "resolutions": {
-    "angular": "~1.4.2"
+    "angular": "~1.5.0"
   }
 }
