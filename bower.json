@@ -1,9 +1,9 @@
 {
   "name": "angularSelectbox",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "http://milica.github.io/angular-selectbox/",
   "authors": [
-    "Milica Kadic <milica.kadic.87@gmail.com>"
+    "Balazs Gallay <balazs.gallay.budacode@gmail.com>"    
   ],
   "description": "A simple AngularJS custom selecbox which supports multi select",
   "keywords": [
