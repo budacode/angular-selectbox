@@ -109,7 +109,9 @@ $scrollbar-background: #ccc;
   top: $height - 1px;
   left: 0;
   width: 100%;
-  max-height: 198px;
+  // It fucks up the vertical aligment if the content bigger than 300px
+  // (only in Chrome 50, propably chrome bug)
+  max-height: 300px;
   overflow: auto;
   margin: 0;
   padding: 0;
